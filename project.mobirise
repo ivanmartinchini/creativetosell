@@ -23,7 +23,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 30,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/logoo-128x123.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -221,7 +223,7 @@
           },
           "title1": "hacemos estrategias",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "establecemos un objetivo y armamos una estrategia para cumplirla",
+          "caption1": "establecemos un objetivo y armamos una plan para cumplirlo",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
